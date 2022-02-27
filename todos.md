@@ -7,3 +7,5 @@
   - [ ] Solidity
   - [ ] Blockchain
   - [ ] Cryptography  
+- [ ] Confirm how a new node is added
+- [ ] Confirm who manages the contract that this hash has 4 zeroes
