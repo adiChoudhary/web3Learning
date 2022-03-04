@@ -5,9 +5,12 @@ https://support.opensea.io/hc/en-us/articles/1500003113761-What-are-the-key-term
 
 crypto wallet- https://support.opensea.io/hc/en-us/articles/1500008812861-What-is-a-crypto-wallet-
 
-opensea basic tutorial- https://docs.opensea.io/docs/getting-started-1
+opensea basic tutorial- https://docs.opensea.io/docs/getting-started-1z
 
 IAQs for quick grasp- https://www.javatpoint.com/blockchain-interview-questions
+
+great resource for overall ipfs learning(interactive tutorials) : https://proto.school/tutorials
+
 
 open questions as of now-
 1. Private public key encryption- dec signature verification 
