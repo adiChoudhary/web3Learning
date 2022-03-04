@@ -4,3 +4,5 @@
 - Understanding block chain easy
   - https://andersbrownworth.com/blockchain/hash
   - https://andersbrownworth.com/blockchain/public-private-keys/keys
+- etherium understanding resources
+  - https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
